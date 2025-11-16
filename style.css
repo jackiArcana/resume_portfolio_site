@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; margin: 0; background: #e4e4d8; color: #222; }
+header { background: #333; color: #eee; padding: 20px;}
+nav a { color: #ff0000; margin: 0 10px; text-decoration: none;}
+h1, h2 { margin: 0 0 10px 0; }
+section { padding: 20px; border-bottom: 1px solid #ddd;}
+img { margin: 10px; border-radius: 10px; }
+footer { background: #222; color: #aaa; text-align: center; padding: 10px; }
